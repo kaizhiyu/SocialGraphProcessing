@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Sqlite (Xerial) - authentication_database.sqlite" uuid="ccf836a0-1aa4-423b-8383-177ebf74d619">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/src/main/resources/java_resources/authentication_database.sqlite</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Sqlite (Xerial) - authentication_database.sqlite Exe" uuid="0e3cee1a-b258-41c1-82b7-27433fc02c2d">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/target/SocialGraphProcessing-1.0-SNAPSHOT/WEB-INF/classes/java_resources/authentication_database.sqlite</jdbc-url>
+    </data-source>
+  </component>
+</project>
